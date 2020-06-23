@@ -1,0 +1,36 @@
+var group__group__hal__impl__triggers__psoc4100smax =
+[
+    [ "cyhal_dest_t", "group__group__hal__impl__triggers__psoc4100smax.html#ga9f4ccc24bf42d155f1889959e519ebb8", null ],
+    [ "cyhal_trigger_dest_psoc4100smax_t", "group__group__hal__impl__triggers__psoc4100smax.html#ga18d024dcd35839b95d8149891311971f", [
+      [ "TRIGGER_CANFD_TR_DBG_DMA_ACK0", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971faff6a4cea8e988337b193d18e895e25ce", null ],
+      [ "TRIGGER_CANFD_TR_EVT_SWT_IN0", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971facccba8d38de201a56ff3ab3fdc7b9cc3", null ],
+      [ "TRIGGER_CPUSS_DMAC_TR_IN0", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fa13769916b8fe3a772ef0df5576d443a8", null ],
+      [ "TRIGGER_CPUSS_DMAC_TR_IN1", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fa4d6ed5fe7856e51781dd71c89c3ebbfc", null ],
+      [ "TRIGGER_CPUSS_DMAC_TR_IN2", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fac0be437128aaeedab3d4062f19403115", null ],
+      [ "TRIGGER_CPUSS_DMAC_TR_IN3", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fa2dc2c06274c907bca118aaceafa001f9", null ],
+      [ "TRIGGER_CPUSS_DMAC_TR_IN4", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fa37abbce1b7d657c7d6dd027b4073b10d", null ],
+      [ "TRIGGER_CPUSS_DMAC_TR_IN5", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fa1bd4f3a124742c1bcb6baffc466ac9b8", null ],
+      [ "TRIGGER_CPUSS_DMAC_TR_IN6", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fa99fc616d765fcabb6b3bf6315be259b0", null ],
+      [ "TRIGGER_CPUSS_DMAC_TR_IN7", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fab33261efcdec3d67b444cdc4cbf4c82e", null ],
+      [ "TRIGGER_CPUSS_DMAC_TR_IN8", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fac557b346f917778a6dd732d8e95568ec", null ],
+      [ "TRIGGER_CPUSS_DMAC_TR_IN9", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fafb1cc0758aade87cc94f14e230b1d98c", null ],
+      [ "TRIGGER_CPUSS_DMAC_TR_IN10", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971faf83fe295352080e149768b9f995c2b2e", null ],
+      [ "TRIGGER_CPUSS_DMAC_TR_IN11", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fa108c2cce6475fbebc41c85ca51a754e6", null ],
+      [ "TRIGGER_CPUSS_DMAC_TR_IN12", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fafe5333b85ba334123d24b4e2185117a0", null ],
+      [ "TRIGGER_CPUSS_DMAC_TR_IN13", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fabeaf7e63ea065458bd5348126e11ad99", null ],
+      [ "TRIGGER_CPUSS_DMAC_TR_IN14", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fa8cd2d322b39dbe3973b7dcc8b47dc1b5", null ],
+      [ "TRIGGER_CPUSS_DMAC_TR_IN15", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fa746065bff0ebc86f52e7f2635e21263b", null ],
+      [ "TRIGGER_MSC0_TR_RD_REQ_IN", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fa3008a54db94e27b46051a21a444d6d45", null ],
+      [ "TRIGGER_MSC1_TR_RD_REQ_IN", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fad3c4560294ab90e4d55d5c0abbe9a27b", null ],
+      [ "TRIGGER_MSC0_TR_WR_REQ_IN", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fae93981f428490dbfaf2ca7830d4a9633", null ],
+      [ "TRIGGER_MSC1_TR_WR_REQ_IN", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fab1d3cf708d26e3909a07ebfd7ca32d02", null ],
+      [ "TRIGGER_PASS_TR_SAR_IN", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fa94df452a663814d0b8e5603df5580bae", null ],
+      [ "TRIGGER_TCPWM_TR_IN7", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fad6b1216c6c9b76cf12890c4ca150d02d", null ],
+      [ "TRIGGER_TCPWM_TR_IN8", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971faed0da084159b0f3f3ad003a9852fb570", null ],
+      [ "TRIGGER_TCPWM_TR_IN9", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fa2ac95c429448d691e2e6ada8a4f85ec7", null ],
+      [ "TRIGGER_TCPWM_TR_IN10", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fae07677bac8c851d473e9daf4e1048b8a", null ],
+      [ "TRIGGER_TCPWM_TR_IN11", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fa563b795dc210ce7722d6b4cecd293853", null ],
+      [ "TRIGGER_TCPWM_TR_IN12", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fa4d280e5940d8df6c03a69d20caa8543a", null ],
+      [ "TRIGGER_TCPWM_TR_IN13", "group__group__hal__impl__triggers__psoc4100smax.html#gga18d024dcd35839b95d8149891311971fa4d6f9da78856f27e3dc008f1489f3cb4", null ]
+    ] ]
+];
